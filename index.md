@@ -1,5 +1,16 @@
 ## PerDiem Archive
 
+______
+
+### Link to resources
+
+PerDiem key learnings
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
