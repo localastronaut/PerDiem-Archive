@@ -25,8 +25,15 @@ PerDiem, recognized as a pioneer in the music industry as the first investment p
 ## Technologies Used
 
 - Front-End Development: HTML, CSS, JavaScript
-- Back-End Development: (Specific technologies not mentioned in the description. Please add if any)
-- UX/UI Design: Sublime (for coding), Research on UI and design principles
+- Back-End Development: Python: The primary backend programming language.
+Django: The Python web framework used for handling HTTP requests and database interactions.
+PostgreSQL: The relational database system used to store application data.
+Memcached: The in-memory data store used for caching.
+Gunicorn: The HTTP server used to interface with the application.
+Runit: The init scheme used to supervise and manage processes.
+Nginibx: The web server used to serve static files and manage web traffic.
+Fabric: The Python library and command-line tool used for streamlining SSH for application deployment.
+Poetry: The tool used for Python dependency management and packaging.
 
 
 ## Resources
